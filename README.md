@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/vedasri2511/Leetcode/tree/master/0031-next-permutation) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vedasri2511/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vedasri2511/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/vedasri2511/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/vedasri2511/Leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
