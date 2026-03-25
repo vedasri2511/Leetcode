@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vedasri2511/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/vedasri2511/Leetcode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/vedasri2511/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vedasri2511/Leetcode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/vedasri2511/Leetcode/tree/master/0226-invert-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vedasri2511/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
