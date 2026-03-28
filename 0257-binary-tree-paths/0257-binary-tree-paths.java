@@ -1,0 +1,21 @@
+class Solution {
+    List<String> ans = new ArrayList<>();
+    public List<String> binaryTreePaths(TreeNode root) {
+        dfs(root,"");
+        return ans;
+    }
+    void dfs(TreeNode root,String path){
+        if(root == null) return;
+        if(path.length() == 0){
+            path = String.valueOf(root.val);
+        }else{
+            path = path+"->"+root.val;
+        }
+        if(root.right == null && root.left == null){
+            ans.add(path);
+            return;
+        }
+        if(root.left != null)dfs(root.left,path);
+        if(root.right != null)dfs(root.right,path);
+    }
+}
