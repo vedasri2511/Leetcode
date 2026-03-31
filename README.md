@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vedasri2511/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedasri2511/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/vedasri2511/Leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/vedasri2511/Leetcode/tree/master/0268-missing-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vedasri2511/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vedasri2511/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vedasri2511/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vedasri2511/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedasri2511/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vedasri2511/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vedasri2511/Leetcode/tree/master/0268-missing-number) |
 | [1980-find-unique-binary-string](https://github.com/vedasri2511/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vedasri2511/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/vedasri2511/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vedasri2511/Leetcode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/vedasri2511/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Math
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vedasri2511/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vedasri2511/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vedasri2511/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/vedasri2511/Leetcode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
 |  |
@@ -74,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vedasri2511/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedasri2511/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/vedasri2511/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/vedasri2511/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vedasri2511/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vedasri2511/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vedasri2511/Leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
