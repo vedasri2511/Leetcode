@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vedasri2511/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vedasri2511/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/vedasri2511/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/vedasri2511/Leetcode/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/vedasri2511/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Math
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedasri2511/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/vedasri2511/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vedasri2511/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vedasri2511/Leetcode/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/vedasri2511/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vedasri2511/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vedasri2511/Leetcode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
