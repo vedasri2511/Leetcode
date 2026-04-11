@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vedasri2511/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/vedasri2511/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vedasri2511/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vedasri2511/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vedasri2511/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vedasri2511/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vedasri2511/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vedasri2511/Leetcode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/vedasri2511/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vedasri2511/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vedasri2511/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
