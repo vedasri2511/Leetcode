@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vedasri2511/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vedasri2511/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vedasri2511/Leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vedasri2511/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vedasri2511/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vedasri2511/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vedasri2511/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vedasri2511/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/vedasri2511/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/vedasri2511/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vedasri2511/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/vedasri2511/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Math
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vedasri2511/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vedasri2511/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vedasri2511/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vedasri2511/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
 |  |
