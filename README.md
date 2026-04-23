@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vedasri2511/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vedasri2511/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vedasri2511/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0409-longest-palindrome](https://github.com/vedasri2511/Leetcode/tree/master/0409-longest-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vedasri2511/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vedasri2511/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vedasri2511/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vedasri2511/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vedasri2511/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vedasri2511/Leetcode/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/vedasri2511/Leetcode/tree/master/0409-longest-palindrome) |
 | [1980-find-unique-binary-string](https://github.com/vedasri2511/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/vedasri2511/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vedasri2511/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/vedasri2511/Leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
