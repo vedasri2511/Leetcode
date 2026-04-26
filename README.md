@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vedasri2511/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/vedasri2511/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/vedasri2511/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/vedasri2511/Leetcode/tree/master/0415-add-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vedasri2511/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vedasri2511/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vedasri2511/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vedasri2511/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vedasri2511/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/vedasri2511/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/vedasri2511/Leetcode/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vedasri2511/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vedasri2511/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/vedasri2511/Leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
