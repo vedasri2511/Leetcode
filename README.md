@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vedasri2511/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vedasri2511/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/vedasri2511/Leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/vedasri2511/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedasri2511/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
 |  |
