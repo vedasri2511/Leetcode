@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vedasri2511/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/vedasri2511/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/vedasri2511/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/vedasri2511/Leetcode/tree/master/0495-teemo-attacking) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vedasri2511/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vedasri2511/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vedasri2511/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vedasri2511/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vedasri2511/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vedasri2511/Leetcode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/vedasri2511/Leetcode/tree/master/0495-teemo-attacking) |
 ## Number Theory
 |  |
 | ------- |
