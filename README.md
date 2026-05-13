@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/vedasri2511/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/vedasri2511/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/vedasri2511/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/vedasri2511/Leetcode/tree/master/0506-relative-ranks) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vedasri2511/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vedasri2511/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vedasri2511/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vedasri2511/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vedasri2511/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vedasri2511/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/vedasri2511/Leetcode/tree/master/0506-relative-ranks) |
 ## Tree
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vedasri2511/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/vedasri2511/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
