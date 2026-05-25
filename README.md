@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vedasri2511/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/vedasri2511/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/vedasri2511/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/vedasri2511/Leetcode/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vedasri2511/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vedasri2511/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vedasri2511/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vedasri2511/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/vedasri2511/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/vedasri2511/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/vedasri2511/Leetcode/tree/master/0561-array-partition) |
 ## Tree
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/vedasri2511/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/vedasri2511/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/vedasri2511/Leetcode/tree/master/0561-array-partition) |
 ## String Matching
 |  |
 | ------- |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/vedasri2511/Leetcode/tree/master/0511-game-play-analysis-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vedasri2511/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
