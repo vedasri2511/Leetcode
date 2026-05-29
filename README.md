@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/vedasri2511/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/vedasri2511/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vedasri2511/Leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/vedasri2511/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vedasri2511/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vedasri2511/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vedasri2511/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/vedasri2511/Leetcode/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/vedasri2511/Leetcode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/vedasri2511/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vedasri2511/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## String
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vedasri2511/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/vedasri2511/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/vedasri2511/Leetcode/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/vedasri2511/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Number Theory
 |  |
 | ------- |
