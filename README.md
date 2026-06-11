@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vedasri2511/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/vedasri2511/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/vedasri2511/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/vedasri2511/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/vedasri2511/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vedasri2511/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vedasri2511/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vedasri2511/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/vedasri2511/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vedasri2511/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vedasri2511/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/vedasri2511/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/vedasri2511/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/vedasri2511/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1980-find-unique-binary-string](https://github.com/vedasri2511/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vedasri2511/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/vedasri2511/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/vedasri2511/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/vedasri2511/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/vedasri2511/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vedasri2511/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/vedasri2511/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
 |  |
 | ------- |
